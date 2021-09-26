@@ -1,5 +1,5 @@
-let numbers = [1, 2, 3, 4, 5, 6, 7];
-let index = 6;
+const numbers = [1, 2, 3, 4, 5, 6, 7];
+const index = 6;
 
 function copyClosure() {
     return function(obj) {
